@@ -1,0 +1,4 @@
+savapage-core
+=============
+
+SavaPage Core.
